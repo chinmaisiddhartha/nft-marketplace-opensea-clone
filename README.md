@@ -18,7 +18,7 @@
 
 ### 2. Install Dependencies:
 ```
-$ cd nft_auctions
+$ cd nft-marketplace-opensea-clone
 $ npm install 
 ```
 
